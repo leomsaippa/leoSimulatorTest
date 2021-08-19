@@ -13,6 +13,7 @@
 		A326952F26CDEB42007D0B30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A326952D26CDEB42007D0B30 /* Main.storyboard */; };
 		A326953126CDEB43007D0B30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A326953026CDEB43007D0B30 /* Assets.xcassets */; };
 		A326953426CDEB43007D0B30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A326953226CDEB43007D0B30 /* LaunchScreen.storyboard */; };
+		A326953C26CDEB7B007D0B30 /* GeigerLEService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A326953B26CDEB7B007D0B30 /* GeigerLEService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A326953026CDEB43007D0B30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A326953326CDEB43007D0B30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A326953526CDEB43007D0B30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A326953B26CDEB7B007D0B30 /* GeigerLEService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeigerLEService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		A326952626CDEB42007D0B30 /* leoSimulatorTest */ = {
 			isa = PBXGroup;
 			children = (
+				A326953B26CDEB7B007D0B30 /* GeigerLEService.swift */,
 				A326952726CDEB42007D0B30 /* AppDelegate.swift */,
 				A326952926CDEB42007D0B30 /* SceneDelegate.swift */,
 				A326952B26CDEB42007D0B30 /* ViewController.swift */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A326952C26CDEB42007D0B30 /* ViewController.swift in Sources */,
+				A326953C26CDEB7B007D0B30 /* GeigerLEService.swift in Sources */,
 				A326952826CDEB42007D0B30 /* AppDelegate.swift in Sources */,
 				A326952A26CDEB42007D0B30 /* SceneDelegate.swift in Sources */,
 			);

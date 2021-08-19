@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>DAEEEF55-D238-4B50-8F32-3147BCD587A4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DAEEEF55-D238-4B50-8F32-3147BCD587A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>leoSimulatorTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>leoSimulatorTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run leoSimulatorTest</string>
+			<key>timeStartedRecording</key>
+			<real>651032251.63883197</real>
+			<key>timeStoppedRecording</key>
+			<real>651033853.58272696</real>
+			<key>title</key>
+			<string>Run leoSimulatorTest</string>
+			<key>uniqueIdentifier</key>
+			<string>DAEEEF55-D238-4B50-8F32-3147BCD587A4</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

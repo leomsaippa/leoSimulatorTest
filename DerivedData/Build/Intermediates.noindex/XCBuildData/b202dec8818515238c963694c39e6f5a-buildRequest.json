@@ -1,0 +1,58 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "8af3f94eedff8b3d3dc756712cd2e7e3d67655460efa75ce559f1d72fa10bb16"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos14.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/lsaippa/projects/personal/leoSimulatorTest/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/lsaippa/projects/personal/leoSimulatorTest/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/lsaippa/projects/personal/leoSimulatorTest/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/lsaippa/projects/personal/leoSimulatorTest/DerivedData/leoSimulatorTest/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/lsaippa/projects/personal/leoSimulatorTest/DerivedData/leoSimulatorTest/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/lsaippa/projects/personal/leoSimulatorTest/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "58b57e92750be82959e520add793dc6e"
+build_time: [1629369619, 503366000]
+inputs:
+  "/Users/lsaippa/projects/personal/leoSimulatorTest/leoSimulatorTest/ViewController.swift": [1629338905, 952760281]
+  "/Users/lsaippa/projects/personal/leoSimulatorTest/leoSimulatorTest/GeigerLEService.swift": [1629341053, 596126019]
+  "/Users/lsaippa/projects/personal/leoSimulatorTest/leoSimulatorTest/AppDelegate.swift": [1629336514, 503418099]
+  "/Users/lsaippa/projects/personal/leoSimulatorTest/leoSimulatorTest/SceneDelegate.swift": [1629336514, 505470142]
